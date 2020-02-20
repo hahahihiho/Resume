@@ -1,5 +1,15 @@
 
 ## 기본소개
+![img](https://github.com/hahahihiho/Resume/blob/master/img/1.jpg,"1")
+![img](https://github.com/hahahihiho/Resume/blob/master/img/2.jpg?raw=true,"2")
+![img]("/img/3.jpg","3")
+
+<div>
+<img src="https://github.com/hahahihiho/Resume/blob/master/img/1.jpg?raw=true," alt="Alt text" title="1" style="zoom:33%;" />
+<img src="https://github.com/hahahihiho/Resume/blob/master/img/2.jpg?raw=true," alt="Alt text" title="1" style="zoom:33%;" />
+<img src="https://github.com/hahahihiho/Resume/blob/master/img/3.jpg?raw=true" alt="img" title=",&quot;1" style="zoom:33%;" />
+</div>
+
 | Name | Life | Email  |
 | :----: | :----: | :----: |
 |  조현명 | 1994 ~ | edison0106@naver.com  |
