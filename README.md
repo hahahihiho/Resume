@@ -13,11 +13,13 @@
   > 그러기 위해서 운동도, 공부도, 삶도 열심히 살 것 입니다.
 
 ## 관심분야(기술)
-* C,C++,Rust,Python,Go,javascript(typescript),flutter,Vue,Nodejs
+* C,C++,Rust,Python,Go,javascript(typescript),flutter,Vue,Nodejs,linux
 * 네트워크, 통신
 * 보안
 * 개인화, 자동화
+* 펌웨어
 * 수학 +
+  * 알고리즘
   * 머신러닝, 딥러닝
   * 암호학
   * NLP,STT,TTS
