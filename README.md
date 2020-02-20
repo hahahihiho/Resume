@@ -1,11 +1,6 @@
 
 ## 기본소개
 
-<div>
-<img src="https://github.com/hahahihiho/Resume/blob/master/img/1.jpg?raw=true," alt="Alt text" title="1" style="zoom:33%;" />
-<img src="https://github.com/hahahihiho/Resume/blob/master/img/2.jpg?raw=true," alt="Alt text" title="1" style="zoom:33%;" />
-<img src="https://github.com/hahahihiho/Resume/blob/master/img/3.jpg?raw=true" alt="img" title=",&quot;1" style="zoom:33%;" />
-</div>
 
 | Name | Life | Email  |
 | :----: | :----: | :----: |
