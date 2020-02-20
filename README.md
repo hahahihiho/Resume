@@ -6,6 +6,13 @@
 | :----: | :----: | :----: |
 |  조현명 | 1994 ~ | edison0106@naver.com  |
 
+
+<table>
+<tr><td><img src="img/1.jpg" height = 250></td>
+<td><img src="img/2.jpg" height = 250></td>
+<td><img src="img/3.jpg" height = 250></td></tr>
+</table>
+
 ### 한줄소개
 
 * > 저는 웃는것을 좋아하고, 배우는 것을 좋아하는 사람입니다.
