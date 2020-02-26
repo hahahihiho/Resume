@@ -26,7 +26,7 @@
 * docker, kubernetes, jenkins
 * javascript(typescript),flutter,Vue,Nodejs
 * 빅데이터, 통계, AI
-* 개인화, 자동화
+* 개인화, 자동화, 시각화
 * 네트워크, 통신
 * 보안
 * 펌웨어
