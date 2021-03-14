@@ -51,7 +51,7 @@
 >     * 음성파일 분석, DNN 모델 학습, 음성 분리테스트
 >     >  https://github.com/hahahihiho/proj1_sound_distinguisher
 >     * study
->     > https://github.com/hahahihiho/AI-ML-DL-study
+>     > https://github.com/hahahihiho/AI-ML-DL-study  
 >     > https://github.com/hahahihiho/storage
 
 * 2020
@@ -70,6 +70,8 @@
 >   * gitlab을 통한 코드 관리 및 배포
 >   * bash스크립트와 스케줄러를 이용한 배포,데이터생성 자동화
 >   * sql을 통한 스케줄러 db 관리
+
+
 
 ## 기술
    
@@ -167,6 +169,7 @@
 
 * 제 현실(?) 모습이 궁금하다면 '띵크띵 ThinkThing' 이라는 유튜브 채널에 제 개인영상들이 있습니다.
 
+* Curious,NVC(내면탐험) 활동 (Curious 3301) 
 
 
 
@@ -179,6 +182,7 @@
 | 운암고 | 이과 |
 | 울산과학기술원(UNIST) |  전기전자컴퓨터공학부(3.83/4.3)|
 | 공군 | 유선통신병 |
+| Haafor Research Korea | Trading Prediction Model Research(Production,Visualization Team) |
 
 ## 자격증
 | 종류| | | |
