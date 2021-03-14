@@ -45,18 +45,39 @@
   
 * 2019
 > * KFQ한국품질제단(교육이수)
->   * 웹 로그인, 게시판 +@ 구현(java,spring)
+>   * 로그인, 개인 성격(mbti)테스트 및 게시판 및 댓글 이용(java,spring,tomcat)
+>   > https://github.com/kfq-miniproject/Psychological_Test
 >   * python: 데이터 크롤링,데이터전처리,분석,머신러닝,딥러닝,이미지,음성처리
+>     * 음성파일 분석, DNN 모델 학습, 음성 분리테스트
+>     >  https://github.com/hahahihiho/proj1_sound_distinguisher
+>     * study
+>     > https://github.com/hahahihiho/AI-ML-DL-study
+>     > https://github.com/hahahihiho/storage
 
 * 2020
-> * 보드게임기록,통계 웹앱 게발
+> * 보드게임기록,통계 웹앱 개발
 >   * python: flask(웹),sqlite3(db),html,css,js,ajax(fetch)
-  
+>   > https://github.com/hahahihiho/Boardgame-Recorder
+
+> * 리액트 공부
+>   * 리액트(함수형,class형) + Single Page Application + Hook Event + Redux + Redux-Thunk
+>   * 차트 drawing
+>   > https://github.com/hahahihiho/Learning-React
+
+* 2020 ~ 2021
+> * Haafor Research Korea(2020.03 ~ 2021.02)
+>   * python 라이브러리(django, flask, bokeh,회사라이브러리)+javascript 를 이용한 대시보드(차트+interactive page) 구축 및 데이터생성,관리 
+>   * gitlab을 통한 코드 관리 및 배포
+>   * bash스크립트와 스케줄러를 이용한 배포,데이터생성 자동화
+>   * sql을 통한 스케줄러 db 관리
+
 ## 기술
-### 자주 다룸
+   
+### 공부함
 * python
     ```
-    * 데이터 분석,머신러닝 라이브러리 : numpy,pandas,sklearn,matplotlib 
+    * 웹 서버 : bokeh, django, flask, javascript
+    * 데이터 관리, 처리, 생성, 분석 : numpy,pandas,sklearn,matplotlib
     * 이미지 분석 라이브러리 : opencv (얼굴인식)
     * 데이터 모델링 라이브러리 : tensor-flow, keras (CNN,RNN,LSTM)
     * GPU computing : CUDA (접해봄)
@@ -70,8 +91,7 @@
     ```
     
 * sql (CRUD)
-
-### 공부함
+* React
 * Data science
     ```
     * ML(Decision Tree, Random Forest, K-means, SVM)
@@ -95,35 +115,18 @@
 	```
 	공업수학, 통신, 전자기학, 회로, 반도체
 	```
+* 금융지식
+	```
+	ticker, factor, PnL, exposure, position 등 주식용어
+	```
 ### 접해봄
+* python library(numba)
+* AWS
 * Node.js
-* React
 * Mongo DB
 * docker  : `linux에 hadoop 설치후 container 배포`
 * hadoop
 * 딥러닝분석 `NLP,TTS,STT`
-
-
-
-## 포트폴리오
-
-* 보드게임 기록, 통계 (python,flask,front-end)
-
-  > https://github.com/hahahihiho/Boardgame-Recorder
-
-* 로그인, 개인 성격(mbti)테스트 및 게시판 및 댓글 이용(java,spring,tomcat)
-  
-  > https://github.com/kfq-miniproject/Psychological_Test
-
-* 음성파일 분석, DNN 모델 학습, 음성 분리테스트
-  
-  >  https://github.com/hahahihiho/proj1_sound_distinguisher
-
-* study
-  > https://github.com/hahahihiho/AI-ML-DL-study
-  >
-  > https://github.com/hahahihiho/storage
-
 
 
 ## 자기소개서
@@ -162,7 +165,7 @@
 
 * 운동을 좋아합니다.  - 플란체를 연습중입니다..
 
-* 제 현실(?) 모습이 궁금하다면 띵ThinkThing 이라는 유튜브 채널에 제 개인영상들이 있습니다.
+* 제 현실(?) 모습이 궁금하다면 '띵크띵 ThinkThing' 이라는 유튜브 채널에 제 개인영상들이 있습니다.
 
 
 
