@@ -44,7 +44,7 @@
 >   * 3,4학년: 회로,네트워크 및 통신
   
 * 2019
-> * KFQ한국품질제단(교육이수)
+> * KFQ한국품질재단(교육이수)
 >   * 로그인, 개인 성격(mbti)테스트 및 게시판 및 댓글 이용(java,spring,tomcat)
 >   > https://github.com/kfq-miniproject/Psychological_Test
 >   * python: 데이터 크롤링,데이터전처리,분석,머신러닝,딥러닝,이미지,음성처리
