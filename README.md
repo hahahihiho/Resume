@@ -8,8 +8,8 @@
 
 
 <table>
-<tr><td><img src="img/1.jpg" height = 250></td>
-<td><img src="img/2.jpg" height = 250></td>
+<tr><td><img src="img/2.jpg" height = 250></td>
+<td><img src="img/5.jpg" height = 250></td>
 <td><img src="img/3.jpg" height = 250></td></tr>
 </table>
 
