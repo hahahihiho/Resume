@@ -37,7 +37,7 @@
   * blockchain
     * public - bitcoin, ethereum(geth)
     * private - hyperledger(fabric/indy/sawtooth..)
-    * smart contrac - solidity(assembly)
+    * smart contract - solidity(assembly)
 * 개인화, 자동화, 시각화
 * 이론
   * 수학
@@ -57,9 +57,9 @@
 >   * 3,4학년: 회로,네트워크 및 통신
   
 * 2019
-> * KFQ한국품질재단(교육이수)
->   * 로그인, 개인 성격(mbti)테스트 및 게시판 및 댓글 이용(java,spring,tomcat)
->   > https://github.com/kfq-miniproject/Psychological_Test
+> * KFQ한국품질재단(AI 교육이수)(2019.7~2019.11)
+>   * 로그인(정규표현식), 개인 성격(mbti)테스트, 게시판, 댓글, 비밀번호hash화 저장등(java,spring,tomcat)
+>   > https://github.com/kfq-miniproject/Psychological_Test (spring을 이용한 기본 웹 프로젝트로, 정리되지 않은 코드라 삭제)
 >   * python: 데이터 크롤링,데이터전처리,분석,머신러닝,딥러닝,이미지,음성처리
 >     * 음성파일 분석, DNN 모델 학습, 음성 분리테스트
 >     >  https://github.com/hahahihiho/proj1_sound_distinguisher
