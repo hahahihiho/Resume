@@ -59,7 +59,7 @@
 * 2019
 > * KFQ한국품질재단(AI 교육이수)(2019.7~2019.11)
 >   * 로그인(정규표현식), 개인 성격(mbti)테스트, 게시판, 댓글, 비밀번호hash화 저장등(java,spring,tomcat)
->   > https://github.com/kfq-miniproject/Psychological_Test (spring을 이용한 기본 웹 프로젝트로, 정리되지 않은 코드라 삭제)
+>   > https://github.com/kfq-miniproject/Psychological_Test (spring을 이용한 기본 웹 프로젝트로, 현재 폐쇄)
 >   * python: 데이터 크롤링,데이터전처리,분석,머신러닝,딥러닝,이미지,음성처리
 >     * 음성파일 분석, DNN 모델 학습, 음성 분리테스트
 >     >  https://github.com/hahahihiho/proj1_sound_distinguisher
@@ -106,7 +106,8 @@
 ### 공부함
 * python
     ```
-    * 웹 서버 : bokeh, django, flask, javascript
+    * class (객체지향 능숙)
+    * 웹 서버 : bokeh, django, flask
     * 데이터 관리, 처리, 생성, 분석 : numpy,pandas,sklearn,matplotlib
     * 이미지 분석 라이브러리 : opencv (얼굴인식)
     * 데이터 모델링 라이브러리 : tensor-flow, keras (CNN,RNN,LSTM)
@@ -114,14 +115,20 @@
     * web 구현 라이브러리 : flask
     * db : sqlite3
     ```
-* front-end
+* javascript
     ```
-    * html,css : bootstrap
-    * js : ajax, fetch, event-handler
+    * nodejs, npm, nvm
+    * express, ejs
     * React, Redux, Nextjs
     * Svelte, Sapper
+    * js : ajax, fetch, event-handler
+    * html,css : bootstrap, tailwindcss
     ```
-    
+* linux/bash
+    ```
+    * vi, tmux, ps, ssh, bash 등 기본 리눅스사용 능숙
+    ```
+
 * sql (CRUD)
 * Data science
     ```
@@ -130,7 +137,7 @@
     * 통계분석(Standardization,Normalization,PCA)
     ```
 
-* C++, java, linux
+* C++, java
     ```
     기본문법
     ```
