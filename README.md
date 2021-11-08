@@ -69,7 +69,8 @@
 
 * 2020
 > * 보드게임기록,통계 웹앱 개발
->   * python: flask(웹),sqlite3(db),html,css,js,ajax(fetch)
+>   * 목표 : 모임 내역 기록 -> 시각화
+>   * 사용툴 : python: flask(웹),sqlite3(db),html,css,js,ajax(fetch)
 >   > https://github.com/hahahihiho/Boardgame-Recorder
 
 > * 리액트 공부
@@ -91,19 +92,26 @@
 >     * linux bash, docker-compose등을 이용한 자동관리
 >     * golang 을 이용한 chaincode 코딩
 >     * FanMOA(팬모아) - ticket cloud funding platform
->     > https://github.com/hahahihiho/FanMOA
+>     	* 목표 : blockchain의 smart-contract 이용하여 소규모 공연기획(cloud funding)의 신뢰성 확보 플랫폼
+>     	> https://github.com/hahahihiho/FanMOA
+>   * 온라인 이더리움 해커톤(2021.9) 2위 수상 (주최: 디사이퍼, 수호, 토카막 네트워크)
+>     * NFT 생태계 이해, 블록체인 커뮤티니 경험
+>     > https://www.coindeskkorea.com/news/articleView.html?idxno=75419
+>     * 강다르크(Kang d'Arc)
+>     > https://github.com/hahahihiho/Kang_dArc
 >   * public network(ethereum 기반 app)
 >     * web3.js, ethers.js, web3.py등을 rpc를 이용
 >     * metamask 와 웹 연동
 >     * Travel NFT - 메타디움 testnet을 이용한 NFT market(linux,nodejs,sapper,ethers,ipfs,hardhat,solidity,metamask,metadium)
->     > https://github.com/hahahihiho/TravelNFT
+>     	* 목표 : metamask를 이용한 여행nft 발행 및 거래
+>     	> https://github.com/hahahihiho/TravelNFT
 
 
 
 
 ## 기술
    
-### 공부함
+### 숙달
 * python
     ```
     * class (객체지향 능숙)
@@ -117,19 +125,37 @@
     ```
 * javascript
     ```
-    * nodejs, npm, nvm
+    * nodejs, npm, nvm, 각종 라이브러리 능숙
     * express, ejs
     * React, Redux, Nextjs
     * Svelte, Sapper
     * js : ajax, fetch, event-handler
     * html,css : bootstrap, tailwindcss
     ```
+* blockchain
+    ```
+    * web3(js,py), ethers.js
+    * truffle, hardhat
+    ```
+
 * linux/bash
     ```
     * vi, tmux, ps, ssh, bash 등 기본 리눅스사용 능숙
+    * Shell script, crontab 를 이용하여 linux에서 자동화된 툴을 만들 수 있음
     ```
 
 * sql (CRUD)
+    ```
+    * 기본 query 날리는데 능숙
+    ```
+
+### 다시 공부시 할수있음
+* Docker, Docker-compose
+    ```
+    * docker container를 생성하고 연결하며 기본 명령어를 다룰줄 앎
+    * docker-compose.yaml의 기본 설정파일을 다룰줄 앎
+    ```
+
 * Data science
     ```
     * ML(Decision Tree, Random Forest, K-means, SVM)
@@ -137,7 +163,7 @@
     * 통계분석(Standardization,Normalization,PCA)
     ```
 
-* C++, java
+* Golang, Solidity, C++, java, typescript
     ```
     기본문법
     ```
@@ -148,7 +174,7 @@
 	```
 * 수학
 	```
-	공업수학, 통신, 전자기학, 회로, 반도체
+	공업수학, 통신, 전자기학, 회로, 반도체, ssh, rsa, zkp, 암호학
 	```
 * 금융지식
 	```
@@ -161,8 +187,8 @@
 	NFT : Opensea, rarible..
 	```
 	
-### 접해봄
-* Language(Golang, R)
+### 접해봄(추가 공부 필요)
+* Language(R)
 * Library : python library(numba)
 * Cloud : AWS
 * DB : Mongo DB
@@ -179,6 +205,7 @@
 **＜기술＞** 
 
 * 저는 수학을 좋아합니다. 그래서 수학적인 부분을 고민하는것을 좋아합니다. 
+* 무언가를 만드는걸 좋아합니다. 컴퓨터로하는 toy-project도 좋고, 레고나 프라모델 창작과 같은 활동을도 좋아합니다.
 * 대학은 공대를 나왔습니다, 공학적 지식을 배웠습니다.
 * 아직 접하지 못한 수많은 기술과 지식들의 확장을 좋아하기에 배우는 것에 대해서 두려움이 없습니다.
 
@@ -190,6 +217,7 @@
 
 * 아는 것을 상대가 가진 지식에 맞추어 설명할 수 있습니다.
 * 웃음이 많고 밝아서 사람을 대하는데 거리낌이 없습니다.
+* 서로 소통하며 협의하고 함께 나아가는것을 좋아합니다.
 
 **＜잡설>**
 
@@ -198,11 +226,14 @@
 <특징>
 * 건강한것을 좋아합니다(술담배를 안합니다)
 
+* 자연을 좋아합니다
+
 * 운동을 좋아합니다.(자전거,등산) - 플란체를 연습중입니다..
 
 * 제 현실(?) 모습이 궁금하다면 [띵크띵 ThinkThing](https://www.youtube.com/channel/UCglpNvBRq64IZ_ca2yBrSow) 이라는 유튜브 채널에 제 개인영상들이 있습니다.
 
-* Curious(탐험),NVC(내면탐험) 활동 [(YouTube : Curious / Curator 3301 / 내면탐험)](https://www.youtube.com/watch?v=4OVSnEZDOms&list=PLFSh6Glh9f7tzamuBiPMrAZ7XD1Nn_xAA)
+* Curious(탐험) : 이벤트 기획, 영상촬영,편집, 오지 탐험 및, 협력하여 도전하는 활동들[(YouTube : Curious / Curator 3301)](https://www.youtube.com/watch?v=4OVSnEZDOms&list=PLFSh6Glh9f7tzamuBiPMrAZ7XD1Nn_xAA)
+* NVC(내면탐험) 활동중 (YouTube : 내면탐험)
 
 
 
