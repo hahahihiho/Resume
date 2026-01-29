@@ -4,255 +4,182 @@
 
 | Name | Life | Email  |
 | :----: | :----: | :----: |
-|  조현명 | 1994 ~ | edison0106@naver.com  |
+|  조현명 | 1994 ~ | hahahihiho16@gmai.com  |
 
 
 <table>
-<tr><td><img src="img/2.jpg" height = 250></td>
-<td><img src="img/5.jpg" height = 250></td>
-<td><img src="img/3.jpg" height = 250></td></tr>
+<tr><td><img src="img/20260129.2.jpg" height = 250></td>
+<td><img src="img/20260129.3.jpg" height = 250></td>
+<td><img src="img/20260129.4.jpg" height = 250></td></tr>
 </table>
 
-### 한줄소개
+### 소개
+```
+웃는것을 좋아하고, 사람을 좋아합니다. 
+건강하게 살며, 좋은 사람들과 많이 연결되어 살고 싶습니다.
+호기심으로 삶을 배워가고 있습니다.
+```
 
-* > 저는 웃는것을 좋아하고, 배우는 것을 좋아하는 사람입니다.
-  >
-  > 건강하게 살며, 좋은 사람들을 많이 만나며 살고 싶습니다.
-  >
-  > 그러기 위해서 운동도, 공부도, 삶도 열심히 살 것 입니다.
-
-## 관심분야(기술) .. 리스트는 늘어날 계획이라.. 평생 심심하진 않겠... 😅
-* 언어, 프레임워크, tools
-  * C,C++,Rust,Python,Go,javascript,typescript
-  * Nodejs,Vue,React,svelte
-  * flutter
-* 컴퓨터
-  * 네트워크, 통신
-  * 보안
-  * 펌웨어
-  * 디버깅 - unit-test
-  * 관리 - docker, kubernetes
-  * 자동화(CI/CD) - jenkins, github-action
-  * 빅데이터 AI
-  * blockchain
-    * public - bitcoin, ethereum(geth)
-    * private - hyperledger(fabric/indy/sawtooth..)
-    * smart contract - solidity(assembly)
-* 개인화, 자동화, 시각화
-* 이론
-  * 수학
-  * 통계
-  * 통신,네트워크
-  * 알고리즘
-  * 머신러닝, 딥러닝
-  * 암호학
-  * NLP,STT,TTS
+### 기술
+* 수학(좋아함)
+* 전기,전자(전공)
+* computer science(부전공)
+  * 개발(python, js, API, socket)
+  * DB(sql, redis 등)
+  * 서버 관리(linux, git, container, scheduler)
+  * AI(ML, 통계학, AI역사, LLM 기본구조)
+  * 블록체인(기본 구조, smart contract DeFi개발)
+  * 암호학(전자서명, 영지식증명 흐름)
+* 체력(파쿠르, 등산)
+* 소통/대화방법에도 관심
 
 
-## 활동
-* 2012 ~ 2018
-> * 울산과학기술원 (전기전공, 컴퓨터부전공)
->   * 1,2학년 : C++ 을 이용한 자료구조
->   * 인턴 : m-bot을 이용한 아두이노 코딩,해석학, 시스템제어 논문공부
->   * 3,4학년: 회로,네트워크 및 통신
-  
-* 2019
-> * KFQ한국품질재단(AI 교육이수)(2019.7~2019.11)
->   * 로그인(정규표현식), 개인 성격(mbti)테스트, 게시판, 댓글, 비밀번호hash화 저장등(java,spring,tomcat)
->   > https://github.com/kfq-miniproject/Psychological_Test (spring을 이용한 기본 웹 프로젝트로, 현재 폐쇄)
->   * python: 데이터 크롤링,데이터전처리,분석,머신러닝,딥러닝,이미지,음성처리
->     * 음성파일 분석, DNN 모델 학습, 음성 분리테스트
->     >  https://github.com/hahahihiho/proj1_sound_distinguisher
->     * study
->     > https://github.com/hahahihiho/AI-ML-DL-study  
->     > https://github.com/hahahihiho/storage
-
-* 2020
-> * 보드게임기록,통계 웹앱 개발
->   * 목표 : 모임 내역 기록 -> 시각화
->   * 사용툴 : python: flask(웹),sqlite3(db),html,css,js,ajax(fetch)
->   > https://github.com/hahahihiho/Boardgame-Recorder
-
-> * 리액트 공부
->   * 리액트(함수형,class형) + Single Page Application + Hook Event + Redux + Redux-Thunk
->   * 차트 drawing
->   > https://github.com/hahahihiho/Learning-React
-
-* 2020 ~ 2021
-> * Haafor Research Korea(2020.03 ~ 2021.02)
->   * python 라이브러리(django, flask, bokeh,회사라이브러리)+javascript 를 이용한 대시보드(차트+interactive page) 구축 및 데이터생성,관리 
->   * gitlab을 통한 코드 관리 및 배포
->   * bash스크립트와 스케줄러를 이용한 배포,데이터생성 자동화
->   * sql을 통한 스케줄러 db 관리
-
-> * 한국에이아이블록체인융합원(kabc)(2021.4 ~ 2021.10) *((구)한국블록체인연구교육원) 
->   * 이론
->     * blockchain의 기본알고리즘 및 개념(PoW, PoS, DPoS, Hash, 암호학)
->   * private network(hyperledger-fabric(v1.4)를 이용한 네트워크 구성)
->     * linux bash, docker-compose등을 이용한 자동관리
->     * golang 을 이용한 chaincode 코딩
->     * FanMOA(팬모아) - ticket cloud funding platform
->     	* 목표 : blockchain의 smart-contract 이용하여 소규모 공연기획(cloud funding)의 신뢰성 확보 플랫폼
->     	> https://github.com/hahahihiho/FanMOA
->   * 온라인 이더리움 해커톤(2021.9) 2위 수상 (주최: 디사이퍼, 수호, 토카막 네트워크)
->     * NFT 생태계 이해, 블록체인 커뮤티니 경험
->     > https://www.coindeskkorea.com/news/articleView.html?idxno=75419
->     * 강다르크(Kang d'Arc)
->     > https://github.com/hahahihiho/Kang_dArc
->   * public network(ethereum 기반 app)
->     * web3.js, ethers.js, web3.py등을 rpc를 이용
->     * metamask 와 웹 연동
->     * Travel NFT - 메타디움 testnet을 이용한 NFT market(linux,nodejs,sapper,ethers,ipfs,hardhat,solidity,metamask,metadium)
->     	* 목표 : metamask를 이용한 여행nft 발행 및 거래
->     	> https://github.com/hahahihiho/TravelNFT
+## 자기설명서
 
 
+**<특징>**
+* 기술의 효율적 흐름을 고민하는것을 좋아합니다, 하지만 현실적인 조건도 중요하다고 생각합니다. 
+* 기본적인 기술을 배워 연결하고 응용하는 것에 자신있습니다. 하지만 서비스화 된 기술을 충분히 습득하고 응용하는 대에는 시간이 걸립니다.
+* 파고들어 고민하는 집중력이 있습니다. 하지만 빠르게 리서치하고 대중이 좋아하는 것을 감각하는 것은 약합니다.
+* 방법들에 대해 고민하고 논의하는 것을 좋아합니다. 하지만 방향성을 정하는 것엔 시간이 걸립니다.
+* 팀을 서포팅 할 때 신나는 편입니다. 하지만 주변의 반대를 무릎쓰고 추진하고 리딩하는 것은 약합니다.
+* 상대의 눈높이에 맞춰 설명을 잘 합니다. 반면 전문용어로 설명하는 것엔 정리가 필요합니다.
+* 건강한 것을 좋아합니다(술담배를 안합니다)
 
 
-## 기술
-   
-### 숙달
-* python
-    ```
-    * class (객체지향 능숙)
-    * 웹 서버 : bokeh, django, flask
-    * 데이터 관리, 처리, 생성, 분석 : numpy,pandas,sklearn,matplotlib
-    * 이미지 분석 라이브러리 : opencv (얼굴인식)
-    * 데이터 모델링 라이브러리 : tensor-flow, keras (CNN,RNN,LSTM)
-    * GPU computing : CUDA (접해봄)
-    * web 구현 라이브러리 : flask
-    * db : sqlite3
-    ```
-* javascript
-    ```
-    * nodejs, npm, nvm, 각종 라이브러리 능숙
-    * express, ejs
-    * React, Redux, Nextjs
-    * Svelte, Sapper
-    * js : ajax, fetch, event-handler
-    * html,css : bootstrap, tailwindcss
-    ```
-* blockchain
-    ```
-    * web3(js,py), ethers.js
-    * truffle, hardhat
-    ```
+<마음에 품고 사는 말>
 
-* linux/bash
-    ```
-    * vi, tmux, ps, ssh, bash 등 기본 리눅스사용 능숙
-    * Shell script, crontab 를 이용하여 linux에서 자동화된 툴을 만들 수 있음
-    ```
-
-* sql (CRUD)
-    ```
-    * 기본 query 날리는데 능숙
-    ```
-
-### 다시 공부시 할수있음
-* Docker, Docker-compose
-    ```
-    * docker container를 생성하고 연결하며 기본 명령어를 다룰줄 앎
-    * docker-compose.yaml의 기본 설정파일을 다룰줄 앎
-    ```
-
-* Data science
-    ```
-    * ML(Decision Tree, Random Forest, K-means, SVM)
-    * DL(CNN,RNN,LSTM)
-    * 통계분석(Standardization,Normalization,PCA)
-    ```
-
-* Golang, Solidity, C++, java, typescript
-    ```
-    기본문법
-    ```
-* Spring framework
-	```
-	front 부터 back-end MVC
-	Project : Github - psychological Test
-	```
-* 수학
-	```
-	공업수학, 통신, 전자기학, 회로, 반도체, ssh, rsa, zkp, 암호학
-	```
-* 금융지식
-	```
-	ticker, factor, PnL, exposure, position 등 주식용어
-	```
-* blockchian 생태계 지식
-	```
-	Wallet : Metamask
-	DeFi : Uniswap, 1inch..
-	NFT : Opensea, rarible..
-	```
-	
-### 접해봄(추가 공부 필요)
-* Language(R)
-* Library : python library(numba)
-* Cloud : AWS
-* DB : Mongo DB
-* tools
-  * kubernetes
-  * hadoop
-* 딥러닝분석 `NLP,TTS,STT`
-* blockchain
-  * geth 
+- 웃기위해 생각하기 - @think2smile
+- 편안하기 위한 도전 - 편안함을 주는 여유를 추구하기에 모순적이게도 끊임없이 도전하는 삶을 살겠다.
+- Life is not waiting for the strom to pass, it's about learning to dance in the rain
 
 
-## 자기소개서
+<부가적 이야기>
 
-**＜기술＞** 
-
-* 저는 수학을 좋아합니다. 그래서 수학적인 부분을 고민하는것을 좋아합니다. 
-* 무언가를 만드는걸 좋아합니다. 컴퓨터로하는 toy-project도 좋고, 레고나 프라모델 창작과 같은 활동을도 좋아합니다.
-* 대학은 공대를 나왔습니다, 공학적 지식을 배웠습니다.
-* 아직 접하지 못한 수많은 기술과 지식들의 확장을 좋아하기에 배우는 것에 대해서 두려움이 없습니다.
-
-**＜능력＞**
-
-* 새로운 것을 이해하고 배우는 속도가 빠릅니다. 확실하게 이해하고 싶은 욕심에 다양한 방향으로 고민하기에 응용하는 능력이 좋습니다.
-
-**＜소통＞**
-
-* 아는 것을 상대가 가진 지식에 맞추어 설명할 수 있습니다.
-* 웃음이 많고 밝아서 사람을 대하는데 거리낌이 없습니다.
-* 서로 소통하며 협의하고 함께 나아가는것을 좋아합니다.
-
-**＜잡설>**
-
-바쁜 세상속에서 필요한 사람을 찾는다는건 어려운 일입니다. 글로써 자신을 표현하는 것도 어렵고, 그 글을보고 사람을 판단하는것도 어렵죠. 그래서 적절한 사람이 만난다는 건 행운이라 생각합니다. 우리는 직장을 위해, 돈을 위해, 먹고 살기위해 이력서를 쓰고, 보고 일합니다. 하지만 그것에 앞서, 모두들 아프지않고 건강하고 즐겁게 살았으면 좋겠습니다.
-
-<특징>
-* 건강한것을 좋아합니다(술담배를 안합니다)
-
-* 자연을 좋아합니다
-
-* 운동을 좋아합니다.(자전거,등산) - 플란체를 연습중입니다..
-
-* 제 현실(?) 모습이 궁금하다면 [띵크띵 ThinkThing](https://www.youtube.com/channel/UCglpNvBRq64IZ_ca2yBrSow) 이라는 유튜브 채널에 제 개인영상들이 있습니다.
-
-* Curious(탐험) : 이벤트 기획, 영상촬영,편집, 오지 탐험 및, 협력하여 도전하는 활동들[(YouTube : Curious / Curator 3301)](https://www.youtube.com/watch?v=4OVSnEZDOms&list=PLFSh6Glh9f7tzamuBiPMrAZ7XD1Nn_xAA)
-* NVC(내면탐험) 활동중 (YouTube : 내면탐험)
+* 유튜브 채널이 있습니다. [띵크띵 ThinkThing](https://www.youtube.com/@think2smile)
 
 
 
 ## 이력
+<details>
+<summary>1994 ~ 2011(유년시절)</summary>
 
-| 다닌곳 | 특징 |
-|:---: |:---:|
-| 운암고 | 이과 |
-| 울산과학기술원(UNIST) |  전기전자컴퓨터공학부(3.83/4.3)|
-| 공군 | 유선통신병 |
-| 한국품질재단(KFQ) | AI 교육 이수(딥러닝, 머신러닝) |
-| Haafor Research Korea | Trading Prediction Model Research(Production,Visualization Team) |
-| 한국에이아이블록체인융합원(kabc) | 블록체인 개념 및 개발 |
+```
+중학생때부터 수학분야에 관심이 생겨 지금까지 수학을 좋아함
+```
+</details>
+
+<details>
+<summary>2012 ~ 2018(대학)</summary>
+
+```
+울산과학기술원(UNIST) - 전기/전자/컴퓨터공학부(영어수업)
+- 회로이론, 전자기학, 제어공학, 통신공학 등 공학공부
+- 자료구조, 알고리즘, 네트워크 등 컴퓨터 공학
+- 학점: 3.83/4.3
+
++공군(2014~2016) - 유선통신병
+```
+</details>
+
+<details>
+<summary>2019 (AI 교육)</summary>
+
+```
+KFQ한국품질재단 주관 - 2019.7~2019.11
+- spring 으로 회원가입, mbti 테스트, 게시반, 댓글 등 백엔드+프론트엔드 개발
+- python: 데이터 크롤링,데이터전처리,분석,머신러닝,딥러닝,이미지,음성처리
+```
+* 연습 코드(음성파일 분석, DNN 모델 학습, 음성 분리테스트)
+  
+  \> https://github.com/hahahihiho/proj1_sound_distinguisher
+* 자료정리
+  
+  \> https://github.com/hahahihiho/AI-ML-DL-study  
+  \> https://github.com/hahahihiho/storage
+    
+</details>
+
+<details>
+<summary>2020 (프론트엔드 공부)</summary>
+
+```
+보드게임기록,통계 웹앱 개발
+  * 목표 : 모임 내역 기록 -> 시각화
+  * 사용툴 : python: flask(웹),sqlite3(db),html,css,js,ajax(fetch)
+```
+\> https://github.com/hahahihiho/Boardgame-Recorder
+
+```
+리액트 공부
+  * 리액트(함수형,class형) + Single Page Application + Hook Event + Redux + Redux-Thunk
+  * 차트 drawing
+```
+\> https://github.com/hahahihiho/Learning-React
+</details>
+
+<details>
+<summary>2020 ~ 2021 (Haafor Research Korea)</summary>
+
+```
+하포 리서치 코리아 - (2020.03 ~ 2021.02)
+
+금융/퀀트 리서치, 데이터 처리, pipeline 및 시각화
+  - 회사 라이브러리구축(python, django, flask, bokeh) 
+  - javascript 를 이용한 대시보드(차트+interactive page) 구축 및 데이터생성,관리 
+  - gitlab을 통한 코드 관리 및 배포
+  - bash스크립트와 스케줄러를 이용한 배포,데이터생성 자동화
+  - sql을 통한 스케줄러 db 관리
+```
+</details>
+
+<details>
+<summary>2021 (blockchain 교육이수)</summary>
+
+```
+한국에이아이블록체인융합원(kabc)(2021.4 ~ 2021.10) *((구)한국블록체인연구교육원) 
+  - blockchain의 기본 알고리즘 및 개념(PoW, PoS, DPoS, Hash, 암호학)
+  - private network(hyperledger-fabric)
+    - golang, linux bash, docker-compose 등 사용
+  - public network(ethereum 기반 app)
+    - web3.js, ethers.js, web3.py등을 rpc를 이용
+    - metamask 와 웹 연동
+```
+    
+  - FanMOA(팬모아) - ticket cloud funding platform (https://github.com/hahahihiho/FanMOA)
+    - 목표 : blockchain의 smart-contract 이용하여 소규모 공연기획(cloud funding)의 신뢰성 확보 플랫폼
+    
+  - 온라인 이더리움 해커톤(2021.9) 2위 수상 (주최: 디사이퍼, 수호, 토카막 네트워크)
+    - NFT 생태계 이해, 블록체인 커뮤티니 경험
+    - 기사(https://www.coindeskkorea.com/news/articleView.html?idxno=75419)
+    - 강다르크(Kang d'Arc) (https://github.com/hahahihiho/Kang_dArc/blob/main/project-documents/NFT%20platform_travel.pdf)
+
+  - Travel NFT - 메타디움 testnet을 이용한 NFT market (https://github.com/hahahihiho/TravelNFT)
+    - 사용도구: linux, nodejs, sapper, ethers, ipfs, hardhat, solidity, metamask, metadium
+    - 목표 : metamask를 이용한 여행nft 발행 및 거래
+
+</details>
+
+<details>
+<summary>2021 ~ 2025 (CPLABS)</summary>
+
+```
+씨피랩스((구)Coinplug)) (2021.12 ~ 2025.12)
+
+- DeFi smart contract 테스트, 개발 , 배포(solidity, nodejs, ethers, hardhat)
+- 블록체인 tx 통신, 데이터 수집, 가공, 저장 및 api(js, python, sql, redis, influxDB)
+- 백엔드 서버 배포 및 관리(linux, git, container)
+- AI 연동, MCP, Tool, Function 개발(각종LLM API 연동, CrewAI 등)
+- AI 객체인식 및 글자인식, fine tuning 및 전후처리(YOLO, PaddlePaddle 등)
+```
+</details>
+
+
 
 ## 자격증
-| 종류| | | |
-| :---: |:---:|:---:|:---:|
-| 언어 : | 토익(755)|toeic speaking (120/level 5)|toeic writing (150/level 7)|
-| 나머지 : | 전기기사 |컴퓨터활용능력2급|운전면허|
+- 전기기사
+- 운전면허
+- 컴활2급
 
 
 
